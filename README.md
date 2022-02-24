@@ -15,3 +15,10 @@
 - Implementar las fórmulas en JavaScript.
 - Crear funciones.
 - Integras JS con HTML.
+
+## Taller #3: Promedio, Mediana y Moda.
+
+- Definir las fórmulas.
+- Implementar las fórmulas en JavaScript.
+- Crear funciones.
+- Integras JS con HTML.
